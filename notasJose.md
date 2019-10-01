@@ -5,6 +5,6 @@
 - C en python.
 - Decoradores
 - websockets
-- EQ y builtin de classes
+- [EQ y builtin de classes](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 - Scrapping con beautifulsoup
 
